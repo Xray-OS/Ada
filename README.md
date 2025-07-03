@@ -1,8 +1,6 @@
 
 
 # Ada
-reason: lack of time
-
 Formerly Xray_OS This is my own personal and customized Arch-based Linux instance nobody asked for, this ISO contains all of my personal settings and packages, that I normally use by default in Linux.
 
 Currently is mostly a project for my personal use, but I share it publicly though.
